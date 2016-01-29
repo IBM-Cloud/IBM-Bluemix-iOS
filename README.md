@@ -1,7 +1,15 @@
 ## IBM Bluemix Pulse
 Check the pulse of your apps from the palm of your hand. With the Bluemix Pulse mobile app, you can always know the status of your most critical cloud applications, even on the go. Pulse gives you control of your apps, so you can take immediate action for any errors that might occur, wherever you are.
 
-Created and developed by (list names). 
+Created and developed by: 
+* Bethany Sonefeld - UX Designer
+* Gaby Moreno - UX Designer
+* Carly Stevens - Visual Designer
+* Ross Fenrick - Front End Developer
+* Bobby Smith - Backend Developer
+* Anton McConnville - iOS Developer
+* Bogdan Gheroghe - iOS Developer
+* Robin Cannon - Team Lead 
 
 ### Bugs and Feature Requests
 The Bluemix Pulse team uses issue tracking as the preferred channel for bug reports, feature requests and general feedback. Please read and respect the following issue guidelines.

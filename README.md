@@ -1,5 +1,5 @@
-## IBM Bluemix Pulse
-Check the pulse of your apps from the palm of your hand. With the Bluemix Pulse mobile app, you can always know the status of your most critical cloud applications, even on the go. Pulse gives you control of your apps, so you can take immediate action for any errors that might occur, wherever you are.
+## IBM Mobile Console for Bluemix
+Check the pulse of your apps from the palm of your hand. With the IBM Mobile Console for Bluemix mobile app, you can always know the status of your most critical cloud applications, even on the go. Mobile Console gives you control of your apps, so you can take immediate action for any errors that might occur, wherever you are.
 
 Created and developed by: 
 * Bethany Sonefeld - UX Designer
@@ -12,7 +12,7 @@ Created and developed by:
 * Robin Cannon - Team Lead 
 
 ### Bugs and Feature Requests
-The Bluemix Pulse team uses issue tracking as the preferred channel for bug reports, feature requests and general feedback. Please read and respect the following issue guidelines.
+The IBM Mobile Console for Bluemix team uses issue tracking as the preferred channel for bug reports, feature requests and general feedback. Please read and respect the following issue guidelines.
 
 #### Issue Guidelines
 * Before opening a new issue, please search for existing and closed issues. If your problem or idea is not addressed yet, proceed to open a new issue.
@@ -23,4 +23,4 @@ The Bluemix Pulse team uses issue tracking as the preferred channel for bug repo
 * Link to our personal stuffs?
 
 ### Copyright 
-IBM Coporation 2016
+IBM Corporation 2016

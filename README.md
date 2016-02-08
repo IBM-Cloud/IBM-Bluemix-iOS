@@ -12,15 +12,11 @@ Created and developed by:
 * Robin Cannon - Team Lead 
 
 ### Bugs and Feature Requests
-The IBM Mobile Console for Bluemix team uses issue tracking as the preferred channel for bug reports, feature requests and general feedback. Please read and respect the following issue guidelines.
+The IBM Bluemix iOS team uses issue tracking as the preferred channel for bug reports, feature requests and general feedback. Please read and respect the following issue guidelines.
 
 #### Issue Guidelines
 * Before opening a new issue, please search for existing and closed issues. If your problem or idea is not addressed yet, proceed to open a new issue.
 * Please do not derail or troll issues. Keep the discussion on topic and respect the opinions of others.
-
-### Community
-* Link to Bluemix Twitter / Facebook / etc?
-* Link to our personal stuffs?
 
 ### Copyright 
 IBM Corporation 2016

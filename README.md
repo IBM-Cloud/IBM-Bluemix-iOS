@@ -1,5 +1,5 @@
 ## IBM Bluemix for iOS
-Check the pulse of your apps from the palm of your hand. With the IBM Mobile Console for Bluemix mobile app, you can always know the status of your most critical cloud applications, even on the go. Mobile Console gives you control of your apps, so you can take immediate action for any errors that might occur, wherever you are.
+Check the pulse of your apps from the palm of your hand. With the IBM Bluemix mobile app, you can always know the status of your most critical cloud applications, even on the go. Mobile Console gives you control of your apps, so you can take immediate action for any errors that might occur, wherever you are.
 
 Created and developed by: 
 * Bethany Sonefeld - UX Designer
